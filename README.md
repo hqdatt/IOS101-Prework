@@ -30,7 +30,9 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
-- []
+- [ ] Favorite Applications
+
+
 Google Maps:
 -	Directions for driving, walking, biking, and public transportation with real-time traffic updates
 -	Panoramic street-level views for many locations
@@ -47,6 +49,11 @@ Gmail:
 Locket Widget:
 -	Share photos, referred to as "Snap Lockets," for instant display on your friend's phone widget.
 -	Archive and organize shared photos conveniently, creating a comprehensive collection of moments between you and your friends.
+
+- [ ] App Idea
+
+BuddyUp, a student-focused friend-making app that redefines social connections on campus. This  platform employs a matching algorithm, pairing users based on shared academic interests, courses, and hobbies. Users can create comprehensive profiles, initiating conversations through engaging icebreaker questions. For academic collaboration, the app facilitates the creation of virtual study groups, promoting teamwork on shared courses. To encourage real-world interactions, the app prompts users to organize or discover local meetups. A secure in-app messaging system ensures seamless communication for planning activities and building lasting connections. This app is designed to make the process of forming meaningful friendships during the academic journey enjoyable and tailored to the unique student experience.
+
 
 ## Notes
 
