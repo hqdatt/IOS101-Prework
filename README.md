@@ -30,6 +30,24 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
+- []
+Google Maps:
+-	Directions for driving, walking, biking, and public transportation with real-time traffic updates
+-	Panoramic street-level views for many locations
+
+Musi:
+-	Algorithms that provide personalized song recommendations based on listening history
+-	Access to a vast library of songs for streaming that are available on Youtube
+
+Gmail:
+-	AI-powered suggestions for quick responses
+-	Automatic categorization of emails into important, unread, and starred sections
+-	Enhanced security with optional two-factor authentication
+
+Locket Widget:
+-	Share photos, referred to as "Snap Lockets," for instant display on your friend's phone widget.
+-	Archive and organize shared photos conveniently, creating a comprehensive collection of moments between you and your friends.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
